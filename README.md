@@ -1,36 +1,71 @@
-# Nepal Federal Election Prediction using Machine Learning
+# 🇳🇵 Nepal Federal Election Prediction using Machine Learning
 
-This project predicts Nepal Federal Parliament election results using historical election data and machine learning.
+This project predicts Nepal Federal Parliament election outcomes using Machine Learning and historical election data.
 
-## Features
+The model analyzes past election results and estimates future seat distribution using probabilistic simulation and statistical learning techniques.
 
-- Uses official election results from 2017 and 2022
-- Covers all 165 constituencies
-- Random Forest machine learning model
-- Monte Carlo simulation for seat forecasting
-- Provides win probability per constituency
+---
 
-## Model Details
+## 📊 Project Overview
 
-- Algorithm: RandomForestClassifier
+This project uses official Nepal Federal Election data from:
+
+- 2017 Federal Election
+- 2022 Federal Election
+- All 165 FPTP constituencies
+
+The objective is to predict:
+
+- Winning party per constituency
+- Win probability per constituency
+- National seat distribution forecast
+- Uncertainty ranges using simulation
+
+---
+
+## 🧠 Machine Learning Model
+
+Model used:
+
+- Algorithm: Random Forest Classifier
 - Calibration: CalibratedClassifierCV
-- Simulation runs: 5000
-- Language: Python
-- Tools: pandas, numpy, scikit-learn, Jupyter
+- Simulation: Monte Carlo Simulation (5000 runs)
 
-## Outputs
+Features used:
 
-- final_predictions_submission.csv → constituency predictions
-- seat_forecast_uncertainty.csv → national seat forecast
+- Previous election winner
+- Party transition patterns
+- Party historical strength
+- Constituency stability indicator
 
-## Example Forecast
+The model produces probabilistic predictions rather than deterministic guesses.
 
-- Congress: ~49 seats
-- CPN (UML): ~41 seats
-- Maoist Centre: ~14 seats
-- Others: remaining seats
+---
 
-## Author
+## 📈 Forecast Results (Predicted Seat Distribution)
 
-Sanjay Oli  
-Machine Learning & Cybersecurity Student
+| Party | Predicted Seats |
+|------|----------------|
+| Congress | ~49 |
+| CPN (UML) | ~41 |
+| Maoist Centre | ~14 |
+| Unified Socialist | ~10 |
+| RPP | ~9 |
+| PSP-Nepal | ~8 |
+| RSP | ~7 |
+| Independent | ~6 |
+| Others | Remaining |
+
+Total seats: 165
+
+---
+
+## 📊 Visualization
+
+Seat forecast generated using Machine Learning model:
+
+![Seat Forecast](seat_forecast.png)
+
+---
+
+## 📁 Project Structure
