@@ -1,0 +1,166 @@
+Constituency_2017,Party_2017,key,Constituency_2022,Party_2022,Party_2022_grouped,Party_Changed,Party_2017_strength,Constituency_Stability,Party_2017_encoded,Party_2022_encoded,Predicted_Party,Win_Prob,Seat_Type
+Jhapa 5,CPN (UML),jhapa 5,Jhapa 5,CPN (UML),CPN (UML),0,67.0,1,0,0,Congress,0.23663431155863104,Toss-up
+Ilam 2,CPN (UML),ilam 2,Ilam 2,CPN (UML),CPN (UML),0,67.0,1,0,0,Congress,0.23663431155863104,Toss-up
+Khotang 1,CPN (UML),khotang 1,Khotang 1,Maoist Centre,Maoist Centre,1,67.0,0,0,4,Congress,0.559236245736842,Toss-up
+Chitwan 2,CPN (UML),chitwan 2,Chitwan 2,RSP,RSP,1,67.0,0,0,11,Congress,0.559236245736842,Toss-up
+Makwanpur 1,CPN (UML),makwanpur 1,Makwanpur 1,RPP,RPP,1,67.0,0,0,10,Congress,0.559236245736842,Toss-up
+Jhapa 2,CPN (UML),jhapa 2,Jhapa 2,CPN (UML),CPN (UML),0,67.0,1,0,0,Congress,0.23663431155863104,Toss-up
+Panchthar 1,CPN (UML),panchthar 1,Panchthar 1,CPN (UML),CPN (UML),0,67.0,1,0,0,Congress,0.23663431155863104,Toss-up
+Bajhang 1,CPN (UML),bajhang 1,Bajhang 1,Unified Socialist,Unified Socialist,1,67.0,0,0,14,Congress,0.559236245736842,Toss-up
+Morang 3,CPN (UML),morang 3,Morang 3,Congress,Congress,1,67.0,0,0,1,Congress,0.559236245736842,Toss-up
+Achham 1,CPN (UML),achham 1,Achham 1,Unified Socialist,Unified Socialist,1,67.0,0,0,14,Congress,0.559236245736842,Toss-up
+Dhading 1,CPN (UML),dhading 1,Dhading 1,Unified Socialist,Unified Socialist,1,67.0,0,0,14,Congress,0.559236245736842,Toss-up
+Myagdi 1,CPN (UML),myagdi 1,Myagdi 1,Congress,Congress,1,67.0,0,0,1,Congress,0.559236245736842,Toss-up
+Kaski 2,CPN (UML),kaski 2,Kaski 2,CPN (UML),CPN (UML),0,67.0,1,0,0,Congress,0.23663431155863104,Toss-up
+Rupandehi 2,CPN (UML),rupandehi 2,Rupandehi 2,CPN (UML),CPN (UML),0,67.0,1,0,0,Congress,0.23663431155863104,Toss-up
+Kapilvastu 2,CPN (UML),kapilvastu 2,Kapilvastu 2,Congress,Congress,1,67.0,0,0,1,Congress,0.559236245736842,Toss-up
+Rupandehi 1,CPN (UML),rupandehi 1,Rupandehi 1,CPN (UML),CPN (UML),0,67.0,1,0,0,Congress,0.23663431155863104,Toss-up
+Palpa 1,CPN (UML),palpa 1,Palpa 1,CPN (UML),CPN (UML),0,67.0,1,0,0,Congress,0.23663431155863104,Toss-up
+Baitadi 1,CPN (UML),baitadi 1,Baitadi 1,CPN (UML),CPN (UML),0,67.0,1,0,0,Congress,0.23663431155863104,Toss-up
+Surkhet 1,CPN (UML),surkhet 1,Surkhet 1,Congress,Congress,1,67.0,0,0,1,Congress,0.559236245736842,Toss-up
+Kanchanpur 3,CPN (UML),kanchanpur 3,Kanchanpur 3,Congress,Congress,1,67.0,0,0,1,Congress,0.559236245736842,Toss-up
+Sindhuli 1,CPN (UML),sindhuli 1,Sindhuli 1,Congress,Congress,1,67.0,0,0,1,Congress,0.559236245736842,Toss-up
+Darchula 1,CPN (UML),darchula 1,Darchula 1,Congress,Congress,1,67.0,0,0,1,Congress,0.559236245736842,Toss-up
+Morang 1,CPN (UML),morang 1,Morang 1,Congress,Congress,1,67.0,0,0,1,Congress,0.559236245736842,Toss-up
+Rupandehi 3,CPN (UML),rupandehi 3,Rupandehi 3,RPP,RPP,1,67.0,0,0,10,Congress,0.559236245736842,Toss-up
+Gulmi 2,CPN (UML),gulmi 2,Gulmi 2,CPN (UML),CPN (UML),0,67.0,1,0,0,Congress,0.23663431155863104,Toss-up
+Kavrepalanchok 2,CPN (UML),kavrepalanchok 2,Kavrepalanchok 2,CPN (UML),CPN (UML),0,67.0,1,0,0,Congress,0.23663431155863104,Toss-up
+Nawalparasi (Bardaghat Susta West) 1,CPN (UML),parasi 1,Parasi 1,Congress,Congress,1,67.0,0,0,1,Congress,0.559236245736842,Toss-up
+Kathmandu 5,CPN (UML),kathmandu 5,Kathmandu 5,Congress,Congress,1,67.0,0,0,1,Congress,0.559236245736842,Toss-up
+Kaski 3,CPN (UML),kaski 3,Kaski 3,CPN (UML),CPN (UML),0,67.0,1,0,0,Congress,0.23663431155863104,Toss-up
+Sunsari 1,CPN (UML),sunsari 1,Sunsari 1,PSP-Nepal,PSP-Nepal,1,67.0,0,0,8,Congress,0.559236245736842,Toss-up
+Kailali 2,CPN (UML),kailali 2,Kailali 2,Nagrik Unmukti Party,Nagrik Unmukti Party,1,67.0,0,0,5,Congress,0.559236245736842,Toss-up
+Tanahun 2,CPN (UML),tanahun 2,Tanahun 2,Congress,Congress,1,67.0,0,0,1,Congress,0.559236245736842,Toss-up
+Kaski 1,CPN (UML),kaski 1,Kaski 1,CPN (UML),CPN (UML),0,67.0,1,0,0,Congress,0.23663431155863104,Toss-up
+Dhading 2,CPN (UML),dhading 2,Dhading 2,Congress,Congress,1,67.0,0,0,1,Congress,0.559236245736842,Toss-up
+Kathmandu 3,CPN (UML),kathmandu 3,Kathmandu 3,Congress,Congress,1,67.0,0,0,1,Congress,0.559236245736842,Toss-up
+Kathmandu 9,CPN (UML),kathmandu 9,Kathmandu 9,CPN (UML),CPN (UML),0,67.0,1,0,0,Congress,0.23663431155863104,Toss-up
+Morang 6,CPN (UML),morang 6,Morang 6,Congress,Congress,1,67.0,0,0,1,Congress,0.559236245736842,Toss-up
+Bajura 1,CPN (UML),bajura 1,Bajura 1,Congress,Congress,1,67.0,0,0,1,Congress,0.559236245736842,Toss-up
+Jhapa 4,CPN (UML),jhapa 4,Jhapa 4,CPN (UML),CPN (UML),0,67.0,1,0,0,Congress,0.23663431155863104,Toss-up
+Siraha 3,CPN (UML),siraha 3,Siraha 3,CPN (UML),CPN (UML),0,67.0,1,0,0,Congress,0.23663431155863104,Toss-up
+Bhaktapur 2,CPN (UML),bhaktapur 2,Bhaktapur 2,Congress,Congress,1,67.0,0,0,1,Congress,0.559236245736842,Toss-up
+Banke 3,CPN (UML),banke 3,Banke 3,Congress,Congress,1,67.0,0,0,1,Congress,0.559236245736842,Toss-up
+Kanchanpur 2,CPN (UML),kanchanpur 2,Kanchanpur 2,Congress,Congress,1,67.0,0,0,1,Congress,0.559236245736842,Toss-up
+Kailali 5,CPN (UML),kailali 5,Kailali 5,Congress,Congress,1,67.0,0,0,1,Congress,0.559236245736842,Toss-up
+Nuwakot 2,CPN (UML),nuwakot 2,Nuwakot 2,Congress,Congress,1,67.0,0,0,1,Congress,0.559236245736842,Toss-up
+Syangja 1,CPN (UML),syangja 1,Syangja 1,Congress,Congress,1,67.0,0,0,1,Congress,0.559236245736842,Toss-up
+Surkhet 2,CPN (UML),surkhet 2,Surkhet 2,Congress,Congress,1,67.0,0,0,1,Congress,0.559236245736842,Toss-up
+Lalitpur 1,CPN (UML),lalitpur 1,Lalitpur 1,Congress,Congress,1,67.0,0,0,1,Congress,0.559236245736842,Toss-up
+Parbat 1,CPN (UML),parbat 1,Parbat 1,CPN (UML),CPN (UML),0,67.0,1,0,0,Congress,0.23663431155863104,Toss-up
+Syangja 2,CPN (UML),syangja 2,Syangja 2,Congress,Congress,1,67.0,0,0,1,Congress,0.559236245736842,Toss-up
+Dolakha 1,CPN (UML),dolakha 1,Dolakha 1,Maoist Centre,Maoist Centre,1,67.0,0,0,4,Congress,0.559236245736842,Toss-up
+Manang 1,CPN (UML),manang 1,Manang 1,Congress,Congress,1,67.0,0,0,1,Congress,0.559236245736842,Toss-up
+Gulmi 1,CPN (UML),gulmi 1,Gulmi 1,Congress,Congress,1,67.0,0,0,1,Congress,0.559236245736842,Toss-up
+Mustang 1,CPN (UML),mustang 1,Mustang 1,Congress,Congress,1,67.0,0,0,1,Congress,0.559236245736842,Toss-up
+Dailekh 1,CPN (UML),dailekh 1,Dailekh 1,Unified Socialist,Unified Socialist,1,67.0,0,0,14,Congress,0.559236245736842,Toss-up
+Dhanusha 4,CPN (UML),dhanusha 4,Dhanusha 4,CPN (UML),CPN (UML),0,67.0,1,0,0,Congress,0.23663431155863104,Toss-up
+Dailekh 2,CPN (UML),dailekh 2,Dailekh 2,Congress,Congress,1,67.0,0,0,1,Congress,0.559236245736842,Toss-up
+Dhankuta 1,CPN (UML),dhankuta 1,Dhankuta 1,CPN (UML),CPN (UML),0,67.0,1,0,0,Congress,0.23663431155863104,Toss-up
+Sankhuwasabha 1,CPN (UML),sankhuwasabha 1,Sankhuwasabha 1,Congress,Congress,1,67.0,0,0,1,Congress,0.559236245736842,Toss-up
+Kathmandu 7,CPN (UML),kathmandu 7,Kathmandu 7,RSP,RSP,1,67.0,0,0,11,Congress,0.559236245736842,Toss-up
+Sindhupalchok 2,CPN (UML),sindhupalchok 2,Sindhupalchok 2,Congress,Congress,1,67.0,0,0,1,Congress,0.559236245736842,Toss-up
+Chitwan 1,CPN (UML),chitwan 1,Chitwan 1,RSP,RSP,1,67.0,0,0,11,Congress,0.559236245736842,Toss-up
+Baglung 1,CPN (UML),baglung 1,Baglung 1,Janamorcha,Other,1,67.0,0,0,7,Congress,0.559236245736842,Toss-up
+Nawalparasi (Bardaghat Susta East) 2,CPN (UML),nawalpur 2,Nawalpur 2,Congress,Congress,1,67.0,0,0,1,Congress,0.559236245736842,Toss-up
+Achham 2,CPN (UML),achham 2,Achham 2,Congress,Congress,1,67.0,0,0,1,Congress,0.559236245736842,Toss-up
+Okhaldhunga 1,CPN (UML),okhaldhunga 1,Okhaldhunga 1,Congress,Congress,1,67.0,0,0,1,Congress,0.559236245736842,Toss-up
+Taplejung 1,CPN (UML),taplejung 1,Taplejung 1,CPN (UML),CPN (UML),0,67.0,1,0,0,Congress,0.23663431155863104,Toss-up
+Dadeldhura 1,Congress,dadeldhura 1,Dadeldhura 1,Congress,Congress,0,23.0,1,1,1,Congress,0.4366009685793813,Toss-up
+Sunsari 3,Congress,sunsari 3,Sunsari 3,CPN (UML),CPN (UML),1,23.0,0,1,0,CPN (UML),0.20379671534134425,Toss-up
+Rupandehi 5,Congress,rupandehi 5,Rupandehi 5,CPN (UML),CPN (UML),1,23.0,0,1,0,CPN (UML),0.20379671534134425,Toss-up
+Kapilvastu 3,Congress,kapilvastu 3,Kapilvastu 3,CPN (UML),CPN (UML),1,23.0,0,1,0,CPN (UML),0.20379671534134425,Toss-up
+Sarlahi 4,Congress,sarlahi 4,Sarlahi 4,Independent,Independent,1,23.0,0,1,2,CPN (UML),0.20379671534134425,Toss-up
+Kathmandu 6,Congress,kathmandu 6,Kathmandu 6,RSP,RSP,1,23.0,0,1,11,CPN (UML),0.20379671534134425,Toss-up
+Rautahat 4,Congress,rautahat 4,Rautahat 4,Congress,Congress,0,23.0,1,1,1,Congress,0.4366009685793813,Toss-up
+Nawalparasi (Bardaghat Susta West) 2,Congress,parasi 2,Parasi 2,RPP,RPP,1,23.0,0,1,10,CPN (UML),0.20379671534134425,Toss-up
+Kathmandu 4,Congress,kathmandu 4,Kathmandu 4,Congress,Congress,0,23.0,1,1,1,Congress,0.4366009685793813,Toss-up
+Sunsari 4,Congress,sunsari 4,Sunsari 4,Congress,Congress,0,23.0,1,1,1,Congress,0.4366009685793813,Toss-up
+Morang 2,Congress,morang 2,Morang 2,CPN (UML),CPN (UML),1,23.0,0,1,0,CPN (UML),0.20379671534134425,Toss-up
+Rasuwa 1,Congress,rasuwa 1,Rasuwa 1,Congress,Congress,0,23.0,1,1,1,Congress,0.4366009685793813,Toss-up
+Udayapur 1,Congress,udayapur 1,Udayapur 1,Congress,Congress,0,23.0,1,1,1,Congress,0.4366009685793813,Toss-up
+Siraha 1,Congress,siraha 1,Siraha 1,CPN (UML),CPN (UML),1,23.0,0,1,0,CPN (UML),0.20379671534134425,Toss-up
+Kathmandu 1,Congress,kathmandu 1,Kathmandu 1,Congress,Congress,0,23.0,1,1,1,Congress,0.4366009685793813,Toss-up
+Rupandehi 4,Congress,rupandehi 4,Rupandehi 4,Loktantrik Samajwadi,Loktantrik Samajwadi,1,23.0,0,1,3,CPN (UML),0.20379671534134425,Toss-up
+Kathmandu 10,Congress,kathmandu 10,Kathmandu 10,Congress,Congress,0,23.0,1,1,1,Congress,0.4366009685793813,Toss-up
+Bardiya 1,Congress,bardiya 1,Bardiya 1,Congress,Congress,0,23.0,1,1,1,Congress,0.4366009685793813,Toss-up
+Nawalparasi (Bardaghat Susta East) 1,Congress,nawalpur 1,Nawalpur 1,Congress,Congress,0,23.0,1,1,1,Congress,0.4366009685793813,Toss-up
+Sunsari 2,Congress,sunsari 2,Sunsari 2,CPN (UML),CPN (UML),1,23.0,0,1,0,CPN (UML),0.20379671534134425,Toss-up
+Saptari 4,Congress,saptari 4,Saptari 4,Congress,Congress,0,23.0,1,1,1,Congress,0.4366009685793813,Toss-up
+Bara 1,Congress,bara 1,Bara 1,CPN (UML),CPN (UML),1,23.0,0,1,0,CPN (UML),0.20379671534134425,Toss-up
+Sindhupalchok 1,Maoist Centre,sindhupalchok 1,Sindhupalchok 1,Maoist Centre,Maoist Centre,0,32.0,1,4,4,Maoist Centre,0.45211205867602144,Toss-up
+Chitwan 3,Maoist Centre,chitwan 3,Chitwan 3,RPP,RPP,1,32.0,0,4,10,CPN (UML),0.32559929667422066,Toss-up
+Lamjung 1,Maoist Centre,lamjung 1,Lamjung 1,CPN (UML),CPN (UML),1,32.0,0,4,0,CPN (UML),0.32559929667422066,Toss-up
+Morang 4,Maoist Centre,morang 4,Morang 4,Maoist Centre,Maoist Centre,0,32.0,1,4,4,Maoist Centre,0.45211205867602144,Toss-up
+Rolpa 1,Maoist Centre,rolpa 1,Rolpa 1,Maoist Centre,Maoist Centre,0,32.0,1,4,4,Maoist Centre,0.45211205867602144,Toss-up
+Kanchanpur 1,Maoist Centre,kanchanpur 1,Kanchanpur 1,CPN (UML),CPN (UML),1,32.0,0,4,0,CPN (UML),0.32559929667422066,Toss-up
+Kapilvastu 1,Maoist Centre,kapilvastu 1,Kapilvastu 1,CPN (UML),CPN (UML),1,32.0,0,4,0,CPN (UML),0.32559929667422066,Toss-up
+Baglung 2,Maoist Centre,baglung 2,Baglung 2,Maoist Centre,Maoist Centre,0,32.0,1,4,4,Maoist Centre,0.45211205867602144,Toss-up
+Kalikot 1,Maoist Centre,kalikot 1,Kalikot 1,Maoist Centre,Maoist Centre,0,32.0,1,4,4,Maoist Centre,0.45211205867602144,Toss-up
+Jumla 1,Maoist Centre,jumla 1,Jumla 1,RPP,RPP,1,32.0,0,4,10,CPN (UML),0.32559929667422066,Toss-up
+Kavrepalanchok 1,Maoist Centre,kavrepalanchok 1,Kavrepalanchok 1,Maoist Centre,Maoist Centre,0,32.0,1,4,4,Maoist Centre,0.45211205867602144,Toss-up
+Mahottari 1,Maoist Centre,mahottari 1,Mahottari 1,CPN (UML),CPN (UML),1,32.0,0,4,0,CPN (UML),0.32559929667422066,Toss-up
+Gorkha 1,Maoist Centre,gorkha 1,Gorkha 1,Congress,Congress,1,32.0,0,4,1,CPN (UML),0.32559929667422066,Toss-up
+Sindhuli 2,Maoist Centre,sindhuli 2,Sindhuli 2,Maoist Centre,Maoist Centre,0,32.0,1,4,4,Maoist Centre,0.45211205867602144,Toss-up
+Solukhumbu 1,Maoist Centre,solukhumbu 1,Solukhumbu 1,CPN (UML),CPN (UML),1,32.0,0,4,0,CPN (UML),0.32559929667422066,Toss-up
+Nuwakot 1,Maoist Centre,nuwakot 1,Nuwakot 1,Maoist Centre,Maoist Centre,0,32.0,1,4,4,Maoist Centre,0.45211205867602144,Toss-up
+Western Rukum 1,Maoist Centre,rukum west 1,Rukum West 1,Maoist Centre,Maoist Centre,0,32.0,1,4,4,Maoist Centre,0.45211205867602144,Toss-up
+Eastern Rukum 1,Maoist Centre,rukum east 1,Rukum East 1,Maoist Centre,Maoist Centre,0,32.0,1,4,4,Maoist Centre,0.45211205867602144,Toss-up
+Dang 2,Maoist Centre,dang 2,Dang 2,Maoist Centre,Maoist Centre,0,32.0,1,4,4,Maoist Centre,0.45211205867602144,Toss-up
+Banke 1,Maoist Centre,banke 1,Banke 1,CPN (UML),CPN (UML),1,32.0,0,4,0,CPN (UML),0.32559929667422066,Toss-up
+Dhanusha 1,Maoist Centre,dhanusha 1,Dhanusha 1,PSP-Nepal,PSP-Nepal,1,32.0,0,4,8,CPN (UML),0.32559929667422066,Toss-up
+Lalitpur 3,Maoist Centre,lalitpur 3,Lalitpur 3,RSP,RSP,1,32.0,0,4,11,CPN (UML),0.32559929667422066,Toss-up
+Sarlahi 3,Maoist Centre,sarlahi 3,Sarlahi 3,CPN (UML),CPN (UML),1,32.0,0,4,0,CPN (UML),0.32559929667422066,Toss-up
+Jajarkot 1,Maoist Centre,jajarkot 1,Jajarkot 1,Maoist Centre,Maoist Centre,0,32.0,1,4,4,Maoist Centre,0.45211205867602144,Toss-up
+Bardiya 2,Maoist Centre,bardiya 2,Bardiya 2,Independent,Independent,1,32.0,0,4,2,CPN (UML),0.32559929667422066,Toss-up
+Morang 5,Maoist Centre,morang 5,Morang 5,Independent,Independent,1,32.0,0,4,2,CPN (UML),0.32559929667422066,Toss-up
+Ramechhap 1,Maoist Centre,ramechhap 1,Ramechhap 1,Congress,Congress,1,32.0,0,4,1,CPN (UML),0.32559929667422066,Toss-up
+Bhojpur 1,Maoist Centre,bhojpur 1,Bhojpur 1,Maoist Centre,Maoist Centre,0,32.0,1,4,4,Maoist Centre,0.45211205867602144,Toss-up
+Jhapa 1,Maoist Centre,jhapa 1,Jhapa 1,Congress,Congress,1,32.0,0,4,1,CPN (UML),0.32559929667422066,Toss-up
+Siraha 2,Maoist Centre,siraha 2,Siraha 2,PSP-Nepal,PSP-Nepal,1,32.0,0,4,8,CPN (UML),0.32559929667422066,Toss-up
+Udayapur 2,Maoist Centre,udayapur 2,Udayapur 2,CPN (UML),CPN (UML),1,32.0,0,4,0,CPN (UML),0.32559929667422066,Toss-up
+Salyan 1,Maoist Centre,salyan 1,Salyan 1,Unified Socialist,Unified Socialist,1,32.0,0,4,14,CPN (UML),0.32559929667422066,Toss-up
+Kathmandu 2,Unified Socialist,kathmandu 2,Kathmandu 2,RSP,RSP,1,13.0,0,14,11,CPN (UML),0.2971806933749328,Toss-up
+Kathmandu 8,Unified Socialist,kathmandu 8,Kathmandu 8,RSP,RSP,1,13.0,0,14,11,CPN (UML),0.2971806933749328,Toss-up
+Tehrathum 1,Unified Socialist,tehrathum 1,Tehrathum 1,Congress,Congress,1,13.0,0,14,1,CPN (UML),0.2971806933749328,Toss-up
+Makwanpur 2,Unified Socialist,makwanpur 2,Makwanpur 2,CPN (UML),CPN (UML),1,13.0,0,14,0,CPN (UML),0.2971806933749328,Toss-up
+Dolpa 1,Unified Socialist,dolpa 1,Dolpa 1,Unified Socialist,Unified Socialist,0,13.0,1,14,14,CPN (UML),0.407915774087725,Toss-up
+Mugu 1,Unified Socialist,mugu 1,Mugu 1,Congress,Congress,1,13.0,0,14,1,CPN (UML),0.2971806933749328,Toss-up
+Dang 3,Unified Socialist,dang 3,Dang 3,Congress,Congress,1,13.0,0,14,1,CPN (UML),0.2971806933749328,Toss-up
+Ilam 1,Unified Socialist,ilam 1,Ilam 1,CPN (UML),CPN (UML),1,13.0,0,14,0,CPN (UML),0.2971806933749328,Toss-up
+Tanahun 1,Unified Socialist,tanahun 1,Tanahun 1,Congress,Congress,1,13.0,0,14,1,CPN (UML),0.2971806933749328,Toss-up
+Lalitpur 2,Unified Socialist,lalitpur 2,Lalitpur 2,CPN (UML),CPN (UML),1,13.0,0,14,0,CPN (UML),0.2971806933749328,Toss-up
+Dang 1,Unified Socialist,dang 1,Dang 1,Unified Socialist,Unified Socialist,0,13.0,1,14,14,CPN (UML),0.407915774087725,Toss-up
+Doti 1,Unified Socialist,doti 1,Doti 1,Unified Socialist,Unified Socialist,0,13.0,1,14,14,CPN (UML),0.407915774087725,Toss-up
+Palpa 2,Unified Socialist,palpa 2,Palpa 2,CPN (UML),CPN (UML),1,13.0,0,14,0,CPN (UML),0.2971806933749328,Toss-up
+Saptari 2,PSP-Nepal,saptari 2,Saptari 2,Janamat,Other,1,12.0,0,8,7,CPN (UML),0.35421929298857413,Toss-up
+Sarlahi 1,PSP-Nepal,sarlahi 1,Sarlahi 1,Loktantrik Samajwadi,Loktantrik Samajwadi,1,12.0,0,8,3,CPN (UML),0.35421929298857413,Toss-up
+Gorkha 2,PSP-Nepal,gorkha 2,Gorkha 2,Maoist Centre,Maoist Centre,1,12.0,0,8,4,CPN (UML),0.35421929298857413,Toss-up
+Sarlahi 2,PSP-Nepal,sarlahi 2,Sarlahi 2,Maoist Centre,Maoist Centre,1,12.0,0,8,4,CPN (UML),0.35421929298857413,Toss-up
+Banke 2,PSP-Nepal,banke 2,Banke 2,RPP,RPP,1,12.0,0,8,10,CPN (UML),0.35421929298857413,Toss-up
+Parsa 1,PSP-Nepal,parsa 1,Parsa 1,PSP-Nepal,PSP-Nepal,0,12.0,1,8,8,CPN (UML),0.4262849570292425,Toss-up
+Siraha 4,PSP-Nepal,siraha 4,Siraha 4,PSP-Nepal,PSP-Nepal,0,12.0,1,8,8,CPN (UML),0.4262849570292425,Toss-up
+Bara 2,PSP-Nepal,bara 2,Bara 2,PSP-Nepal,PSP-Nepal,0,12.0,1,8,8,CPN (UML),0.4262849570292425,Toss-up
+Bara 3,PSP-Nepal,bara 3,Bara 3,CPN (UML),CPN (UML),1,12.0,0,8,0,CPN (UML),0.35421929298857413,Toss-up
+Mahottari 4,PSP-Nepal,mahottari 4,Mahottari 4,Congress,Congress,1,12.0,0,8,1,CPN (UML),0.35421929298857413,Toss-up
+Saptari 1,PSP-Nepal,saptari 1,Saptari 1,PSP-Nepal,PSP-Nepal,0,12.0,1,8,8,CPN (UML),0.4262849570292425,Toss-up
+Mahottari 3,Loktantrik Samajwadi,mahottari 3,Mahottari 3,Loktantrik Samajwadi,Loktantrik Samajwadi,0,9.0,1,3,3,CPN (UML),0.4196215150752476,Toss-up
+Dhanusha 2,Loktantrik Samajwadi,dhanusha 2,Dhanusha 2,Congress,Congress,1,9.0,0,3,1,CPN (UML),0.4014929738775702,Toss-up
+Parsa 2,Loktantrik Samajwadi,parsa 2,Parsa 2,Congress,Congress,1,9.0,0,3,1,CPN (UML),0.4014929738775702,Toss-up
+Parsa 4,Loktantrik Samajwadi,parsa 4,Parsa 4,Congress,Congress,1,9.0,0,3,1,CPN (UML),0.4014929738775702,Toss-up
+Rautahat 1,Loktantrik Samajwadi,rautahat 1,Rautahat 1,Unified Socialist,Unified Socialist,1,9.0,0,3,14,CPN (UML),0.4014929738775702,Toss-up
+Saptari 3,Loktantrik Samajwadi,saptari 3,Saptari 3,Congress,Congress,1,9.0,0,3,1,CPN (UML),0.4014929738775702,Toss-up
+Bara 4,Loktantrik Samajwadi,bara 4,Bara 4,Unified Socialist,Unified Socialist,1,9.0,0,3,14,CPN (UML),0.4014929738775702,Toss-up
+Dhanusha 3,Loktantrik Samajwadi,dhanusha 3,Dhanusha 3,CPN (UML),CPN (UML),1,9.0,0,3,0,CPN (UML),0.4014929738775702,Toss-up
+Mahottari 2,Loktantrik Samajwadi,mahottari 2,Mahottari 2,Loktantrik Samajwadi,Loktantrik Samajwadi,0,9.0,1,3,3,CPN (UML),0.4196215150752476,Toss-up
+Jhapa 3,Rastriya Prajatantra Party,jhapa 3,Jhapa 3,RPP,RPP,1,1.0,0,13,10,Nagrik Unmukti Party,0.35004009266948727,Toss-up
+Pyuthan 1,Rastriya Janamorcha,pyuthan 1,Pyuthan 1,CPN (UML),CPN (UML),1,1.0,0,12,0,Nagrik Unmukti Party,0.3482534091445612,Toss-up
+Bhaktapur 1,Nepal Majdoor Kisan Party,bhaktapur 1,Bhaktapur 1,NMKP,Other,1,1.0,0,6,7,Nagrik Unmukti Party,0.34388796476500666,Toss-up
+Humla 1,Independent,humla 1,Humla 1,Maoist Centre,Maoist Centre,1,1.0,0,2,4,Nagrik Unmukti Party,0.3400578869365672,Toss-up
+Kailali 3,,kailali 3,Kailali 3,Nagrik Unmukti Party,Nagrik Unmukti Party,1,,0,15,5,Nagrik Unmukti Party,0.31642277486777526,Toss-up
+Arghakhanchi 1,,arghakhanchi 1,Arghakhanchi 1,CPN (UML),CPN (UML),1,,0,15,0,Nagrik Unmukti Party,0.31642277486777526,Toss-up
+Kailali 4,,kailali 4,Kailali 4,Congress,Congress,1,,0,15,1,Nagrik Unmukti Party,0.31642277486777526,Toss-up
+Rautahat 3,,rautahat 3,Rautahat 3,Independent,Independent,1,,0,15,2,Nagrik Unmukti Party,0.31642277486777526,Toss-up
+Kailali 1,RJPN,kailali 1,Kailali 1,Nagrik Unmukti Party,Nagrik Unmukti Party,1,1.0,0,9,5,Nagrik Unmukti Party,0.34374774260037283,Toss-up
+Parsa 3,PSP-Nepal,parsa 3,Parsa 3,CPN (UML),CPN (UML),1,12.0,0,8,0,CPN (UML),0.35421929298857413,Toss-up
+Rautahat 2,Congress,rautahat 2,Rautahat 2,Independent,Independent,1,23.0,0,1,2,CPN (UML),0.20379671534134425,Toss-up

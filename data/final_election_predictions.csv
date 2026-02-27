@@ -1,0 +1,160 @@
+Constituency,Party_2017,Party_2022,Party_Changed,Party_2017_encoded,Party_2022_encoded,Party_2022_grouped,Party_2017_strength,Predicted_2022,Predicted_Party,Win_Prob
+Jhapa 5,CPN (UML),CPN (UML),0,1,1,CPN (UML),65.0,1,CPN (UML),1.0
+Ilam 2,CPN (UML),CPN (UML),0,1,1,CPN (UML),65.0,1,CPN (UML),1.0
+Khotang 1,CPN (UML),Maoist Centre,1,1,8,Maoist Centre,65.0,3,Congress,0.18895661919027087
+Chitwan 2,CPN (UML),RSP,1,1,17,RSP,65.0,3,Congress,0.18895661919027087
+Makwanpur 1,CPN (UML),RPP,1,1,16,RPP,65.0,3,Congress,0.18895661919027087
+Jhapa 2,CPN (UML),CPN (UML),0,1,1,CPN (UML),65.0,1,CPN (UML),1.0
+Panchthar 1,CPN (UML),CPN (UML),0,1,1,CPN (UML),65.0,1,CPN (UML),1.0
+Bajhang 1,CPN (UML),Unified Socialist,1,1,20,Unified Socialist,65.0,3,Congress,0.18895661919027087
+Morang 3,CPN (UML),Congress,1,1,3,Congress,65.0,3,Congress,0.18895661919027087
+Achham 1,CPN (UML),Unified Socialist,1,1,20,Unified Socialist,65.0,3,Congress,0.18895661919027087
+Dhading 1,CPN (UML),Unified Socialist,1,1,20,Unified Socialist,65.0,3,Congress,0.18895661919027087
+Myagdi 1,CPN (UML),Congress,1,1,3,Congress,65.0,3,Congress,0.18895661919027087
+Kaski 2,CPN (UML),CPN (UML),0,1,1,CPN (UML),65.0,1,CPN (UML),1.0
+Rupandehi 2,CPN (UML),CPN (UML),0,1,1,CPN (UML),65.0,1,CPN (UML),1.0
+Kapilvastu 2,CPN (UML),Congress,1,1,3,Congress,65.0,3,Congress,0.18895661919027087
+Rupandehi 1,CPN (UML),CPN (UML),0,1,1,CPN (UML),65.0,1,CPN (UML),1.0
+Palpa 1,CPN (UML),CPN (UML),0,1,1,CPN (UML),65.0,1,CPN (UML),1.0
+Baitadi 1,CPN (UML),CPN (UML),0,1,1,CPN (UML),65.0,1,CPN (UML),1.0
+Surkhet 1,CPN (UML),Congress,1,1,3,Congress,65.0,3,Congress,0.18895661919027087
+Kanchanpur 3,CPN (UML),Congress,1,1,3,Congress,65.0,3,Congress,0.18895661919027087
+Sindhuli 1,CPN (UML),Congress,1,1,3,Congress,65.0,3,Congress,0.18895661919027087
+Darchula 1,CPN (UML),Congress,1,1,3,Congress,65.0,3,Congress,0.18895661919027087
+Morang 1,CPN (UML),Congress,1,1,3,Congress,65.0,3,Congress,0.18895661919027087
+Rupandehi 3,CPN (UML),RPP,1,1,16,RPP,65.0,3,Congress,0.18895661919027087
+Gulmi 2,CPN (UML),CPN (UML),0,1,1,CPN (UML),65.0,1,CPN (UML),1.0
+Kavrepalanchok 2,CPN (UML),CPN (UML),0,1,1,CPN (UML),65.0,1,CPN (UML),1.0
+Kathmandu 5,CPN (UML),Congress,1,1,3,Congress,65.0,3,Congress,0.18895661919027087
+Kaski 3,CPN (UML),CPN (UML),0,1,1,CPN (UML),65.0,1,CPN (UML),1.0
+Sunsari 1,CPN (UML),PSP-Nepal,1,1,13,PSP-Nepal,65.0,3,Congress,0.18895661919027087
+Kailali 2,CPN (UML),Nagrik Unmukti Party,1,1,9,Nagrik Unmukti Party,65.0,3,Congress,0.18895661919027087
+Tanahun 2,CPN (UML),Congress,1,1,3,Congress,65.0,3,Congress,0.18895661919027087
+Kaski 1,CPN (UML),CPN (UML),0,1,1,CPN (UML),65.0,1,CPN (UML),1.0
+Dhading 2,CPN (UML),Congress,1,1,3,Congress,65.0,3,Congress,0.18895661919027087
+Kathmandu 3,CPN (UML),Congress,1,1,3,Congress,65.0,3,Congress,0.18895661919027087
+Kathmandu 9,CPN (UML),CPN (UML),0,1,1,CPN (UML),65.0,1,CPN (UML),1.0
+Morang 6,CPN (UML),Congress,1,1,3,Congress,65.0,3,Congress,0.18895661919027087
+Bajura 1,CPN (UML),Congress,1,1,3,Congress,65.0,3,Congress,0.18895661919027087
+Jhapa 4,CPN (UML),CPN (UML),0,1,1,CPN (UML),65.0,1,CPN (UML),1.0
+Siraha 3,CPN (UML),CPN (UML),0,1,1,CPN (UML),65.0,1,CPN (UML),1.0
+Bhaktapur 2,CPN (UML),Congress,1,1,3,Congress,65.0,3,Congress,0.18895661919027087
+Banke 3,CPN (UML),Congress,1,1,3,Congress,65.0,3,Congress,0.18895661919027087
+Kanchanpur 2,CPN (UML),Congress,1,1,3,Congress,65.0,3,Congress,0.18895661919027087
+Kailali 5,CPN (UML),Congress,1,1,3,Congress,65.0,3,Congress,0.18895661919027087
+Nuwakot 2,CPN (UML),Congress,1,1,3,Congress,65.0,3,Congress,0.18895661919027087
+Syangja 1,CPN (UML),Congress,1,1,3,Congress,65.0,3,Congress,0.18895661919027087
+Surkhet 2,CPN (UML),Congress,1,1,3,Congress,65.0,3,Congress,0.18895661919027087
+Lalitpur 1,CPN (UML),Congress,1,1,3,Congress,65.0,3,Congress,0.18895661919027087
+Parbat 1,CPN (UML),CPN (UML),0,1,1,CPN (UML),65.0,1,CPN (UML),1.0
+Syangja 2,CPN (UML),Congress,1,1,3,Congress,65.0,3,Congress,0.18895661919027087
+Dolakha 1,CPN (UML),Maoist Centre,1,1,8,Maoist Centre,65.0,3,Congress,0.18895661919027087
+Manang 1,CPN (UML),Congress,1,1,3,Congress,65.0,3,Congress,0.18895661919027087
+Gulmi 1,CPN (UML),Congress,1,1,3,Congress,65.0,3,Congress,0.18895661919027087
+Mustang 1,CPN (UML),Congress,1,1,3,Congress,65.0,3,Congress,0.18895661919027087
+Dailekh 1,CPN (UML),Unified Socialist,1,1,20,Unified Socialist,65.0,3,Congress,0.18895661919027087
+Dhanusha 4,CPN (UML),CPN (UML),0,1,1,CPN (UML),65.0,1,CPN (UML),1.0
+Dailekh 2,CPN (UML),Congress,1,1,3,Congress,65.0,3,Congress,0.18895661919027087
+Dhankuta 1,CPN (UML),CPN (UML),0,1,1,CPN (UML),65.0,1,CPN (UML),1.0
+Sankhuwasabha 1,CPN (UML),Congress,1,1,3,Congress,65.0,3,Congress,0.18895661919027087
+Kathmandu 7,CPN (UML),RSP,1,1,17,RSP,65.0,3,Congress,0.18895661919027087
+Sindhupalchok 2,CPN (UML),Congress,1,1,3,Congress,65.0,3,Congress,0.18895661919027087
+Chitwan 1,CPN (UML),RSP,1,1,17,RSP,65.0,3,Congress,0.18895661919027087
+Baglung 1,CPN (UML),Janamorcha,1,1,12,Other,65.0,3,Congress,0.18895661919027087
+Achham 2,CPN (UML),Congress,1,1,3,Congress,65.0,3,Congress,0.18895661919027087
+Okhaldhunga 1,CPN (UML),Congress,1,1,3,Congress,65.0,3,Congress,0.18895661919027087
+Taplejung 1,CPN (UML),CPN (UML),0,1,1,CPN (UML),65.0,1,CPN (UML),1.0
+Dadeldhura 1,Nepali Congress,Congress,1,11,3,Congress,20.0,3,Congress,0.3238346943054734
+Sunsari 3,Nepali Congress,CPN (UML),1,11,1,CPN (UML),20.0,3,Congress,0.3238346943054734
+Rupandehi 5,Nepali Congress,CPN (UML),1,11,1,CPN (UML),20.0,3,Congress,0.3238346943054734
+Kapilvastu 3,Nepali Congress,CPN (UML),1,11,1,CPN (UML),20.0,3,Congress,0.3238346943054734
+Sarlahi 4,Nepali Congress,Independent,1,11,5,Independent,20.0,3,Congress,0.3238346943054734
+Kathmandu 6,Nepali Congress,RSP,1,11,17,RSP,20.0,3,Congress,0.3238346943054734
+Rautahat 4,Nepali Congress,Congress,1,11,3,Congress,20.0,3,Congress,0.3238346943054734
+Kathmandu 4,Nepali Congress,Congress,1,11,3,Congress,20.0,3,Congress,0.3238346943054734
+Sunsari 4,Nepali Congress,Congress,1,11,3,Congress,20.0,3,Congress,0.3238346943054734
+Morang 2,Nepali Congress,CPN (UML),1,11,1,CPN (UML),20.0,3,Congress,0.3238346943054734
+Rasuwa 1,Nepali Congress,Congress,1,11,3,Congress,20.0,3,Congress,0.3238346943054734
+Udayapur 1,Nepali Congress,Congress,1,11,3,Congress,20.0,3,Congress,0.3238346943054734
+Siraha 1,Nepali Congress,CPN (UML),1,11,1,CPN (UML),20.0,3,Congress,0.3238346943054734
+Kathmandu 1,Nepali Congress,Congress,1,11,3,Congress,20.0,3,Congress,0.3238346943054734
+Rupandehi 4,Nepali Congress,Loktantrik Samajwadi,1,11,6,Loktantrik Samajwadi,20.0,3,Congress,0.3238346943054734
+Kathmandu 10,Nepali Congress,Congress,1,11,3,Congress,20.0,3,Congress,0.3238346943054734
+Bardiya 1,Nepali Congress,Congress,1,11,3,Congress,20.0,3,Congress,0.3238346943054734
+Sunsari 2,Nepali Congress,CPN (UML),1,11,1,CPN (UML),20.0,3,Congress,0.3238346943054734
+Saptari 4,Nepali Congress,Congress,1,11,3,Congress,20.0,3,Congress,0.3238346943054734
+Bara 1,Nepali Congress,CPN (UML),1,11,1,CPN (UML),20.0,3,Congress,0.3238346943054734
+Sindhupalchok 1,CPN (Maoist Centre),Maoist Centre,1,0,8,Maoist Centre,30.0,8,Maoist Centre,0.3251598684166638
+Chitwan 3,CPN (Maoist Centre),RPP,1,0,16,RPP,30.0,8,Maoist Centre,0.3251598684166638
+Lamjung 1,CPN (Maoist Centre),CPN (UML),1,0,1,CPN (UML),30.0,8,Maoist Centre,0.3251598684166638
+Morang 4,CPN (Maoist Centre),Maoist Centre,1,0,8,Maoist Centre,30.0,8,Maoist Centre,0.3251598684166638
+Rolpa 1,CPN (Maoist Centre),Maoist Centre,1,0,8,Maoist Centre,30.0,8,Maoist Centre,0.3251598684166638
+Kanchanpur 1,CPN (Maoist Centre),CPN (UML),1,0,1,CPN (UML),30.0,8,Maoist Centre,0.3251598684166638
+Kapilvastu 1,CPN (Maoist Centre),CPN (UML),1,0,1,CPN (UML),30.0,8,Maoist Centre,0.3251598684166638
+Baglung 2,CPN (Maoist Centre),Maoist Centre,1,0,8,Maoist Centre,30.0,8,Maoist Centre,0.3251598684166638
+Kalikot 1,CPN (Maoist Centre),Maoist Centre,1,0,8,Maoist Centre,30.0,8,Maoist Centre,0.3251598684166638
+Jumla 1,CPN (Maoist Centre),RPP,1,0,16,RPP,30.0,8,Maoist Centre,0.3251598684166638
+Kavrepalanchok 1,CPN (Maoist Centre),Maoist Centre,1,0,8,Maoist Centre,30.0,8,Maoist Centre,0.3251598684166638
+Mahottari 1,CPN (Maoist Centre),CPN (UML),1,0,1,CPN (UML),30.0,8,Maoist Centre,0.3251598684166638
+Gorkha 1,CPN (Maoist Centre),Congress,1,0,3,Congress,30.0,8,Maoist Centre,0.3251598684166638
+Sindhuli 2,CPN (Maoist Centre),Maoist Centre,1,0,8,Maoist Centre,30.0,8,Maoist Centre,0.3251598684166638
+Solukhumbu 1,CPN (Maoist Centre),CPN (UML),1,0,1,CPN (UML),30.0,8,Maoist Centre,0.3251598684166638
+Nuwakot 1,CPN (Maoist Centre),Maoist Centre,1,0,8,Maoist Centre,30.0,8,Maoist Centre,0.3251598684166638
+Dang 2,CPN (Maoist Centre),Maoist Centre,1,0,8,Maoist Centre,30.0,8,Maoist Centre,0.3251598684166638
+Banke 1,CPN (Maoist Centre),CPN (UML),1,0,1,CPN (UML),30.0,8,Maoist Centre,0.3251598684166638
+Dhanusha 1,CPN (Maoist Centre),PSP-Nepal,1,0,13,PSP-Nepal,30.0,8,Maoist Centre,0.3251598684166638
+Lalitpur 3,CPN (Maoist Centre),RSP,1,0,17,RSP,30.0,8,Maoist Centre,0.3251598684166638
+Sarlahi 3,CPN (Maoist Centre),CPN (UML),1,0,1,CPN (UML),30.0,8,Maoist Centre,0.3251598684166638
+Jajarkot 1,CPN (Maoist Centre),Maoist Centre,1,0,8,Maoist Centre,30.0,8,Maoist Centre,0.3251598684166638
+Bardiya 2,CPN (Maoist Centre),Independent,1,0,5,Independent,30.0,8,Maoist Centre,0.3251598684166638
+Morang 5,CPN (Maoist Centre),Independent,1,0,5,Independent,30.0,8,Maoist Centre,0.3251598684166638
+Ramechhap 1,CPN (Maoist Centre),Congress,1,0,3,Congress,30.0,8,Maoist Centre,0.3251598684166638
+Bhojpur 1,CPN (Maoist Centre),Maoist Centre,1,0,8,Maoist Centre,30.0,8,Maoist Centre,0.3251598684166638
+Jhapa 1,CPN (Maoist Centre),Congress,1,0,3,Congress,30.0,8,Maoist Centre,0.3251598684166638
+Siraha 2,CPN (Maoist Centre),PSP-Nepal,1,0,13,PSP-Nepal,30.0,8,Maoist Centre,0.3251598684166638
+Udayapur 2,CPN (Maoist Centre),CPN (UML),1,0,1,CPN (UML),30.0,8,Maoist Centre,0.3251598684166638
+Salyan 1,CPN (Maoist Centre),Unified Socialist,1,0,20,Unified Socialist,30.0,8,Maoist Centre,0.3251598684166638
+Kathmandu 2,CPN (Unified Socialist),RSP,1,2,17,RSP,13.0,17,RSP,0.39824467636049754
+Kathmandu 8,CPN (Unified Socialist),RSP,1,2,17,RSP,13.0,17,RSP,0.39824467636049754
+Tehrathum 1,CPN (Unified Socialist),Congress,1,2,3,Congress,13.0,17,RSP,0.39824467636049754
+Makwanpur 2,CPN (Unified Socialist),CPN (UML),1,2,1,CPN (UML),13.0,17,RSP,0.39824467636049754
+Dolpa 1,CPN (Unified Socialist),Unified Socialist,1,2,20,Unified Socialist,13.0,17,RSP,0.39824467636049754
+Mugu 1,CPN (Unified Socialist),Congress,1,2,3,Congress,13.0,17,RSP,0.39824467636049754
+Dang 3,CPN (Unified Socialist),Congress,1,2,3,Congress,13.0,17,RSP,0.39824467636049754
+Ilam 1,CPN (Unified Socialist),CPN (UML),1,2,1,CPN (UML),13.0,17,RSP,0.39824467636049754
+Tanahun 1,CPN (Unified Socialist),Congress,1,2,3,Congress,13.0,17,RSP,0.39824467636049754
+Lalitpur 2,CPN (Unified Socialist),CPN (UML),1,2,1,CPN (UML),13.0,17,RSP,0.39824467636049754
+Dang 1,CPN (Unified Socialist),Unified Socialist,1,2,20,Unified Socialist,13.0,17,RSP,0.39824467636049754
+Doti 1,CPN (Unified Socialist),Unified Socialist,1,2,20,Unified Socialist,13.0,17,RSP,0.39824467636049754
+Palpa 2,CPN (Unified Socialist),CPN (UML),1,2,1,CPN (UML),13.0,17,RSP,0.39824467636049754
+Saptari 2,"People's Socialist Party, Nepal",Janamat,1,14,12,Other,11.0,13,PSP-Nepal,0.3014709538928696
+Sarlahi 1,"People's Socialist Party, Nepal",Loktantrik Samajwadi,1,14,6,Loktantrik Samajwadi,11.0,13,PSP-Nepal,0.3014709538928696
+Gorkha 2,"People's Socialist Party, Nepal",Maoist Centre,1,14,8,Maoist Centre,11.0,13,PSP-Nepal,0.3014709538928696
+Sarlahi 2,"People's Socialist Party, Nepal",Maoist Centre,1,14,8,Maoist Centre,11.0,13,PSP-Nepal,0.3014709538928696
+Banke 2,"People's Socialist Party, Nepal",RPP,1,14,16,RPP,11.0,13,PSP-Nepal,0.3014709538928696
+Parsa 1,"People's Socialist Party, Nepal",PSP-Nepal,1,14,13,PSP-Nepal,11.0,13,PSP-Nepal,0.3014709538928696
+Siraha 4,"People's Socialist Party, Nepal",PSP-Nepal,1,14,13,PSP-Nepal,11.0,13,PSP-Nepal,0.3014709538928696
+Bara 2,"People's Socialist Party, Nepal",PSP-Nepal,1,14,13,PSP-Nepal,11.0,13,PSP-Nepal,0.3014709538928696
+Bara 3,"People's Socialist Party, Nepal",CPN (UML),1,14,1,CPN (UML),11.0,13,PSP-Nepal,0.3014709538928696
+Mahottari 4,"People's Socialist Party, Nepal",Congress,1,14,3,Congress,11.0,13,PSP-Nepal,0.3014709538928696
+Saptari 1,"People's Socialist Party, Nepal",PSP-Nepal,1,14,13,PSP-Nepal,11.0,13,PSP-Nepal,0.3014709538928696
+Mahottari 3,Loktantrik Samajwadi Party,Loktantrik Samajwadi,1,7,6,Loktantrik Samajwadi,9.0,6,Loktantrik Samajwadi,0.5583141580890226
+Dhanusha 2,Loktantrik Samajwadi Party,Congress,1,7,3,Congress,9.0,6,Loktantrik Samajwadi,0.5583141580890226
+Parsa 2,Loktantrik Samajwadi Party,Congress,1,7,3,Congress,9.0,6,Loktantrik Samajwadi,0.5583141580890226
+Parsa 4,Loktantrik Samajwadi Party,Congress,1,7,3,Congress,9.0,6,Loktantrik Samajwadi,0.5583141580890226
+Rautahat 1,Loktantrik Samajwadi Party,Unified Socialist,1,7,20,Unified Socialist,9.0,6,Loktantrik Samajwadi,0.5583141580890226
+Saptari 3,Loktantrik Samajwadi Party,Congress,1,7,3,Congress,9.0,6,Loktantrik Samajwadi,0.5583141580890226
+Bara 4,Loktantrik Samajwadi Party,Unified Socialist,1,7,20,Unified Socialist,9.0,6,Loktantrik Samajwadi,0.5583141580890226
+Dhanusha 3,Loktantrik Samajwadi Party,CPN (UML),1,7,1,CPN (UML),9.0,6,Loktantrik Samajwadi,0.5583141580890226
+Mahottari 2,Loktantrik Samajwadi Party,Loktantrik Samajwadi,1,7,6,Loktantrik Samajwadi,9.0,6,Loktantrik Samajwadi,0.5583141580890226
+Jhapa 3,Rastriya Prajatantra Party,RPP,1,19,16,RPP,1.0,5,Independent,0.2540140814045182
+Pyuthan 1,Rastriya Janamorcha,CPN (UML),1,18,1,CPN (UML),1.0,5,Independent,0.2540140814045182
+Bhaktapur 1,Nepal Majdoor Kisan Party,NMKP,1,10,12,Other,1.0,6,Loktantrik Samajwadi,0.3120034320492549
+Humla 1,Independent,Maoist Centre,1,5,8,Maoist Centre,1.0,5,Independent,0.4182391887374003
+Kailali 3,,Nagrik Unmukti Party,1,21,9,Nagrik Unmukti Party,,9,Nagrik Unmukti Party,0.4687790623266385
+Arghakhanchi 1,,CPN (UML),1,21,1,CPN (UML),,9,Nagrik Unmukti Party,0.4687790623266385
+Kailali 4,,Congress,1,21,3,Congress,,9,Nagrik Unmukti Party,0.4687790623266385
+Rautahat 3,,Independent,1,21,5,Independent,,9,Nagrik Unmukti Party,0.4687790623266385
+Kailali 1,RJPN,Nagrik Unmukti Party,1,15,9,Nagrik Unmukti Party,1.0,6,Loktantrik Samajwadi,0.2560675454684076
+Parsa 3,Forum Nepal,CPN (UML),1,4,1,CPN (UML),1.0,5,Independent,0.4182391887374003
+Rautahat 2,Congress,Independent,1,3,5,Independent,1.0,5,Independent,0.42214389374537126
